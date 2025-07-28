@@ -1,13 +1,13 @@
-# ☁️ AWS - Um pouco de história
+## ☁️ AWS - Um pouco de história
 
-## 📌 O que é a AWS?
+### 📌 O que é a AWS?
 A **AWS (Amazon Web Services)** é uma plataforma de computação em nuvem da Amazon.  
 Ela oferece mais de **200 serviços sob demanda** como servidores, armazenamento, banco de dados, redes, segurança, inteligência artificial etc.  
 Tudo isso é acessado pela internet e pago **conforme o uso** (*pay-as-you-go*).
 
 ---
 
-## 📖 Como surgiu a AWS?
+### 📖 Como surgiu a AWS?
 No início dos anos 2000, o e-commerce da Amazon cresceu muito rápido e acabou enfrentando **problemas internos de infraestrutura**.  
 As equipes levavam muito tempo para configurar servidores, bancos de dados e autenticação, o que atrasava o desenvolvimento de novos produtos.  
 
