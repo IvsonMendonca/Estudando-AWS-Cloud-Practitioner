@@ -1,22 +1,45 @@
-# AWS
+## ☁️ Meus Estudos com AWS | Rumo à Certificação Cloud Practitioner 🚀
 
-## O que é a AWS?
-A AWS (Amazon Web Services) é uma plataforma de computação em nuvem da Amazon que oferece mais de 200 serviços sob demanda como servidores, armazenamento, banco de dados, redes, segurança, inteligência artificial, etc.
+Este repositório foi criado para documentar minha jornada de estudos com a **Amazon Web Services (AWS)**, com foco na certificação **AWS Certified Cloud Practitioner**.
+Está sendo construído e alimentado gradualmente, à medida que avanço nos meus estudos sobre AWS.
 
-## Como surgiu?
+Aqui pretendo reunir minhas anotações, resumos, insights e exercícios práticos para compreender melhor os principais serviços da nuvem AWS.
 
-No início dos anos 2000, a Amazon e-commerce, cresceu muito rápido e estava com problemas internos de infraestrutura fazendo com que as equipes demorassem muito para configurar servidores, bancos de dados, autenticação, etc, causando lentidão no desenvolvimento de novos produtos.  
+---
 
-Em 2003 os engenheiros da Amazon começaram a padronizar os serviços internos de infraestrutura e perceberam que essa arquitetura era tão robusta e escalável que poderiam oferecer isso como serviço para outras empresas.
+### 🎯 Objetivo
 
-Então, em 2006, nasceu a AWS - Amazon Web Services, com seus primeiros três serviços: S3 (armazenamento), EC2 (Computação) e SQS (filas de mensagens).
+- Consolidar o conhecimento teórico e prático da AWS.
+- Criar uma base de consulta rápida e organizada.
+- Compartilhar aprendizados que possam ajudar outras pessoas em transição de carreira ou iniciantes em Cloud.
 
-## O que é computação em Nuvem?
+---
 
-É a entrega de serviços de computação como banco de dados, armazenamento, aplicativos e outros recursos de TI, através de uma plataforma de serviços de nuvem via Internet, com pagamento conforme o uso.  
-Com a computação em nuvem, as organizações podem consumir recursos de computação e de armazenamento sob demanda, em vez de contruir e operar a infraestrutura sozinhos.
+### 📚 Conteúdo a ser construído:
 
-## Mas, o que é Nuvem?
-É um computador localizado em algum outro lugar onde é acessado pela Internet. A nuvem é composta por "computadores servidores" que ficam em grandes data centers em diferentes locais ao redor do mundo.  
-Ao usar um serviço de nuvem da AWS, você está usando um dos computadores de propriedade da AWS.
+- [x] Conceitos básicos de Cloud Computing  
+- [x] Modelo de responsabilidade compartilhada  
+- [x] Regiões, Zonas de Disponibilidade e Edge Locations  
+- [x] Serviços principais da AWS (EC2, S3, RDS, Lambda etc.)  
+- [x] IAM e boas práticas de segurança  
+- [x] Preços, faturamento e suporte  
+- [ ] Revisão geral e simulado
 
+> ✅ *Lembrando que este conteúdo ainda está em construção. Sinta-se à vontade para explorar e sugerir melhorias!*
+
+---
+
+### ✍️ Sobre mim
+
+Me chamo **Adriana Gutierrez**, sou uma profissional 40+, formada em Análise e Desenvolvimento de Sistemas, com inglês avançado e uma breve experiência como desenvolvedora front-end. 
+
+Atualmente, estou em transição de carreira para a área de tecnologia, me aprofundando em **AWS e soluções em nuvem** - e, este repositório faz parte dessa caminhada.
+
+---
+
+### 🚀 Vamos juntos?
+
+Se este conteúdo te ajudar de alguma forma, me conta!  
+E, se você também estiver estudando para a AWS Cloud Practitioner, bora trocar figurinhas? 💬
+
+---
