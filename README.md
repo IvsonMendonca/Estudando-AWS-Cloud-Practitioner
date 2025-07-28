@@ -3,6 +3,8 @@
 ## O que é a AWS?
 A AWS (Amazon Web Services) é uma plataforma de computação em nuvem da Amazon que oferece mais de 200 serviços sob demanda como servidores, armazenamento, banco de dados, redes, segurança, inteligência artificial, etc.
 
+## Como surgiu?
+
 No início dos anos 2000, a Amazon e-commerce, cresceu muito rápido e estava com problemas internos de infraestrutura fazendo com que as equipes demorassem muito para configurar servidores, bancos de dados, autenticação, etc, causando lentidão no desenvolvimento de novos produtos.  
 
 Em 2003 os engenheiros da Amazon começaram a padronizar os serviços internos de infraestrutura e perceberam que essa arquitetura era tão robusta e escalável que poderiam oferecer isso como serviço para outras empresas.
