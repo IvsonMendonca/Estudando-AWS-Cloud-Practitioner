@@ -1,9 +1,8 @@
 ## ☁️ Meus Estudos com AWS | Rumo à Certificação Cloud Practitioner 🚀
 
-Este repositório foi criado para documentar minha jornada de estudos com a **Amazon Web Services (AWS)**, com foco na certificação **AWS Certified Cloud Practitioner**.
-Está sendo construído e alimentado gradualmente, à medida que avanço nos meus estudos sobre AWS.
-
-Aqui pretendo reunir minhas anotações, resumos, insights e exercícios práticos para compreender melhor os principais serviços da nuvem AWS.
+✏️ Este repositório foi criado para documentar minha jornada de estudos com a **Amazon Web Services (AWS)**, com foco na certificação **AWS Certified Cloud Practitioner**.  
+📝 Aqui pretendo reunir minhas anotações, resumos, insights e exercícios práticos para compreender melhor os principais serviços da nuvem AWS.  
+🚧 Está sendo construído e alimentado gradualmente à medida que avanço nos meus estudos sobre AWS.  
 
 ---
 
@@ -43,3 +42,6 @@ Se este conteúdo te ajudar de alguma forma, me conta!
 E, se você também estiver estudando para a AWS Cloud Practitioner, bora trocar figurinhas? 💬
 
 ---
+
+> ✨ *Este repositório está em constante construção.  
+Se quiser trocar ideias ou sugestões, fique à vontade para abrir uma issue ou me chamar!*  
